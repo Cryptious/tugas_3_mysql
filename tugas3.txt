@@ -1,0 +1,11 @@
+Apa kepanjangan dari XAMPP?
+Bagaimana cara untuk mengakses XAMPP Panel?
+Module apa yang harus diaktifkan untuk menjalankan MYSQL Server?
+Bagaimana cara menjalankan PHPMyAdmin di browser?
+Bagaimana menjalankan MYSQL Client?
+
+1. X(kode untuk Windows), A(Apache),M(MariaDB), P(PHP), P(Perl)
+2. Mendownload dan Install XAMPP dari Website https://www.apachefriends.org/download.html lalu mencari program di START->All Programs->XAMPP->XAMPP Control Panel
+3. Mysql, Apache, Perl
+4. Membuka browser, lalu mengakses localhost/PHPMyAdmin
+5. Klik Start pada Apache dan Mysql di XAMPP Panel
